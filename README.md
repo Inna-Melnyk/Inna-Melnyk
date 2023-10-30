@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Inna!
+# Hi there 👋, I'm Inna!
 
 I'm a passionate programmer who enjoys working with various technologies and continious learning. My primary areas of focus include JavaScript, React, Node.js, HTML, and CSS. I adore coding and enjoy crafting error-free solutions.
 
