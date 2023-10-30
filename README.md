@@ -1,17 +1,17 @@
 ### Hi there 👋, I'm Inna!
 
-I'm a passionate programmer who enjoys working with various technologies and constantly learning. My primary areas of focus include JavaScript, React, Node.js, HTML, and CSS. I find joy in coding and take pride in crafting error-free solutions.
+I'm a passionate programmer who enjoys working with various technologies and continious learning. My primary areas of focus include JavaScript, React, Node.js, HTML, and CSS. I adore coding and enjoy crafting error-free solutions.
 
-🔭 I'm currently working on various coding study and personal projects to hone my skills and gain practical experience.
+🔭 I'm currently working on various coding projects to hone my skills while gaining practical experience.
 
-🌱 I'm always learning, exploring new technologies, and staying updated with the latest developments in the tech world.
+🌱 I'm always learning, exploring new technologies, and staying up to date with the latest developments in the tech world.
 
-👯 I'm open to collaborating on interesting projects. If you have a cool idea or need a hand with a coding challenge, feel free to reach out.
+👯 I'm open to collaboration on interesting projects. If you have a cool idea or need a hand with a coding challenge, feel free to reach out.
 
 🤔 If you're looking for help or guidance in the world of programming, I'm here to assist and share knowledge.
 
 
-💬 Feel free to reach out to me at inamelnyk@ukr.net or inamelnyk74@gmail.com for any inquiries or collaborations.
+💬 Feel free to reach out to me at inamelnyk@ukr.net or inamelnyk74@gmail.com for any inquiries.
 
 ⚡ Fun Fact: I believe that the best code is not only functional but also elegant and easy to read. I take pride in writing code that's not just effective, but also beautiful.
 
